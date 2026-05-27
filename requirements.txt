@@ -1,0 +1,31 @@
+# Multi-Agent Math OCR & Grading System
+# Core dependencies for image processing, LLM API, and symbolic math
+
+# ===== COMPUTER VISION =====
+opencv-python==4.8.1.78          # Image preprocessing and manipulation
+numpy==1.24.3                    # Numerical computing
+
+# ===== IMAGE HANDLING =====
+Pillow==10.0.0                   # PIL - image I/O and manipulation
+
+# ===== SYMBOLIC MATHEMATICS =====
+sympy==1.12                      # Symbolic math parsing and validation
+
+# ===== API & LLM =====
+google-genai==0.3.0              # Google GenAI SDK for Gemini/Gemma models
+
+# ===== ENVIRONMENT & CONFIG =====
+python-dotenv==1.0.0             # Load environment variables from .env
+
+# ===== OPTIONAL: TESTING & DEVELOPMENT =====
+# Uncomment these for development and testing
+# pytest==7.4.0                  # Testing framework
+# pytest-cov==4.1.0              # Code coverage
+# black==23.9.0                  # Code formatter
+# flake8==6.0.0                  # Linter
+# mypy==1.5.0                    # Type checking
+
+# ===== COMPATIBILITY NOTES =====
+# - Python: 3.8 or higher
+# - Google GenAI: Requires active API key
+# - OpenCV: Requires system libraries (libsm6, libxext6 on Linux)
