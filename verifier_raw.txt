@@ -1,0 +1,46 @@
+```json
+[
+  {
+    "step_id": 1,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 2,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 3,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 4,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 5,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 6,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  },
+  {
+    "step_id": 7,
+    "verifier_confidence": 1.0,
+    "issues": [],
+    "corrected_latex": null
+  }
+]
+```
